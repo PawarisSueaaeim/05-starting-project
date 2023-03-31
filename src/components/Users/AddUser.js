@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 
 import Card from '../UI/Card';
 import Button from '../UI/Button';
+import Wrappers from '../Helpers/Wrappers';
 import ErrorModal from '../UI/ErrorModal';
 import classes from './AddUser.module.css';
 
